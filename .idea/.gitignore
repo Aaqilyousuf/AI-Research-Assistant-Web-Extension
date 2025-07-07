@@ -1,0 +1,22 @@
+# === IntelliJ IDEA / JetBrains ===
+.idea/
+*.iml
+*.ipr
+*.iws
+shelf/
+workspace.xml
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === Spring Boot Backend ===
+research-assistant/target/
+research-assistant/.env
+research-assistant/src/main/resources/application.properties
+
+# === Web Extension / Frontend ===
+research-assistant-ext/.env
+
+# === Logs ===
+*.log
