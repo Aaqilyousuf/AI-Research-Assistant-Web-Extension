@@ -34,5 +34,18 @@ An AI-powered research assistant built with **Spring Boot** and **Spring AI**. T
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/smart-research-assistant.git
-cd smart-research-assistant
+  git clone https://github.com/your-username/smart-research-assistant.git
+  cd smart-research-assistant
+
+---
+
+### 🔮 Future Enhancements
+
+- 📚 **Citation & Source Linking**
+  - Add reference links to credible sources like Semantic Scholar or arXiv in the AI response.
+
+- 🗃️ **Semantic Search with Vector Store**
+  - Use embeddings to perform similarity-based search over uploaded documents.
+
+- 🧩 **Multi-Model Support**
+  - Let users choose between OpenAI, local models, or HuggingFace for different use cases.
