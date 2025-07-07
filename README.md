@@ -31,14 +31,6 @@ An AI-powered research assistant built with **Spring Boot** and **Spring AI**. T
 
 ---
 
-
-### 1. Clone the Repository
-```bash
-  git clone https://github.com/your-username/smart-research-assistant.git
-  cd smart-research-assistant
-
----
-
 ### 🔮 Future Enhancements
 
 - 📚 **Citation & Source Linking**
@@ -49,3 +41,12 @@ An AI-powered research assistant built with **Spring Boot** and **Spring AI**. T
 
 - 🧩 **Multi-Model Support**
   - Let users choose between OpenAI, local models, or HuggingFace for different use cases.
+    
+---
+
+### Clone the Repository
+```bash
+  git clone https://github.com/your-username/smart-research-assistant.git
+  cd smart-research-assistant
+
+
